@@ -1,6 +1,5 @@
 /* Windows 7 Calculator Project
  * @Author: Nikesh Patel
- * @Professor: Ziaullah Khan
  */
 import java.awt.Font;
 import java.awt.GridLayout;
